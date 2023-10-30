@@ -6,6 +6,8 @@
 > 系級：科技系二年級
 ### 課程筆記區
 ### 作業連結區
+hw1 https://github.com/Dolly0106/HW1.git
+hw2 
 ### 專題連結區
 
 
