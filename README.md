@@ -12,7 +12,7 @@
 >
 > hw2
 >
-> hw3 homework3
+> hw3 [homework3](https://github.com/Dolly0106/RL/tree/692ba5616e3f8d44bbccaad234f7f286bc060346/homework3)https://github.com/Dolly0106/RL/tree/692ba5616e3f8d44bbccaad234f7f286bc060346/homework3
 >
 > hw4
 >
