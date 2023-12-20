@@ -10,7 +10,7 @@
 ### 作業連結區
 > hw1 https://github.com/Dolly0106/HW1.git
 >
-> hw2
+> hw2 [homework2](https://github.com/Dolly0106/RL/blob/06eba149a66a6628d062e7b0978eb335303c1d34/HW2.ipynb)
 >
 > hw3 [homework3](https://github.com/Dolly0106/RL/tree/692ba5616e3f8d44bbccaad234f7f286bc060346/homework3)
 >
