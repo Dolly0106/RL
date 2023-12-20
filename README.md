@@ -6,7 +6,7 @@
 > 系級：科技系二年級
 ### 課程筆記區
 > 
->
+>[practice1](https://colab.research.google.com/drive/1Ni9oyAl_H32X-HrLyAh997Gtx0OGvZFi?hl=zh-tw)
 ### 作業連結區
 > hw1 https://github.com/Dolly0106/HW1.git
 >
