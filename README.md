@@ -6,6 +6,10 @@
 > 系級：科技系115
 ### 課程筆記區
 >
+#### 資料交集練習
+>
+> [practice](https://github.com/Dolly0106/RL/blob/7bbe257bd6754a92254b7c52c38a236254bb4064/Untitled.ipynb)
+>
 #### Crawler
 >
 > >beautifulsoup
